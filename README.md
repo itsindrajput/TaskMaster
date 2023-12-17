@@ -1,8 +1,8 @@
 # Task Master 📋
-Task Master is a sleek and intuitive todo app designed to elevate your task management experience. Organize your day, set priorities, and achieve more with this user-friendly application. Simplify your life, one task at a time!
 
 **Description:**
-   - A simple and stylish todo app named Task Master that helps you manage your tasks efficiently.
+   - Task Master is a sleek and intuitive todo app designed to elevate your task management experience. Organize your day, set priorities, and achieve more with this user-friendly application. Simplify your life, one task at a time!
+   - A simple and stylish todo app named Task Master that helps you manage your tasks efficiently. 
 
 **Features:**
    - ✅ Task addition with due dates and priority levels.
@@ -20,8 +20,8 @@ Task Master is a sleek and intuitive todo app designed to elevate your task mana
    task-master-todo-app/
    │
    ├── index.html
-   ├── todoApp.js
-   ├── todoApp.css
+   ├── TaskMaster.js
+   ├── TaskMaster.css
    ├── README.md
    └── 🌄 images/ (if you have any images related to your app)
    ```
@@ -29,7 +29,7 @@ Task Master is a sleek and intuitive todo app designed to elevate your task mana
 **Getting Started:**
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-username/task-master-todo-app.git
+     git clone https://git@github.com:itsindrajput/TaskMaster.git
      ```
    - Open 🖥️ `index.html` in your web browser to start using the app.
 
@@ -52,4 +52,8 @@ Task Master is a sleek and intuitive todo app designed to elevate your task mana
 
 **Acknowledgments:**
     - Mention any libraries, resources, or inspiration you used for your project.
+
+**Snapshot Previews:** 🖼️
+Welcome to the Task Master project! Below are snapshots of the Task Master website homepage, showcasing its sleek design and user-friendly interface. Task Master is your stylish companion for effective task management. Explore the intuitive features designed to simplify your daily tasks and enhance productivity.
+
     - ![TaskMaster](https://github.com/itsindrajput/TaskMaster/assets/70815899/2afb77b3-7c44-4b90-979a-ec95f55ceff5)
