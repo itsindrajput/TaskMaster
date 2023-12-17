@@ -47,13 +47,7 @@
    - 🚀 Push to the branch: `git push origin feature/new-feature`
    - 🔄 Submit a pull request.
 
-**License:**
-   - Specify the license you want to use for your project.
-
-**Acknowledgments:**
-    - Mention any libraries, resources, or inspiration you used for your project.
-
 **Snapshot Previews:** 🖼️
-Welcome to the Task Master project! Below are snapshots of the Task Master website homepage, showcasing its sleek design and user-friendly interface. Task Master is your stylish companion for effective task management. Explore the intuitive features designed to simplify your daily tasks and enhance productivity.
+   - Welcome to the Task Master project! Below are snapshots of the Task Master website homepage, showcasing its sleek design and user-friendly interface. Task Master is your stylish companion for effective task management. Explore the intuitive features designed to simplify your daily tasks and enhance productivity.
 
-    - ![TaskMaster](https://github.com/itsindrajput/TaskMaster/assets/70815899/2afb77b3-7c44-4b90-979a-ec95f55ceff5)
+    - ![TaskMaster](https://github.com/itsindrajput/TaskMaster/assets/70815899/b009835e-4a74-4df2-9ada-2b7a7251e190)
