@@ -50,4 +50,5 @@
 **Snapshot Previews:** 🖼️
    - Welcome to the Task Master project! Below are snapshots of the Task Master website homepage, showcasing its sleek design and user-friendly interface. Task Master is your stylish companion for effective task management. Explore the intuitive features designed to simplify your daily tasks and enhance productivity.
 
-    - ![TaskMaster](https://github.com/itsindrajput/TaskMaster/assets/70815899/b009835e-4a74-4df2-9ada-2b7a7251e190)
+    - ![TaskMaster](https://github.com/itsindrajput/TaskMaster/assets/70815899/f8fdc401-3573-4f86-9245-61a8fb621e96)
+
