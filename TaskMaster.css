@@ -30,13 +30,13 @@ body {
   box-shadow: 0 0 10px rgba(128, 128, 128, 0.1);
   border-radius: 7px;
 }
+
 @media only screen and (max-width:780px) {
   .grid-container{
     width: 85%;
-    padding: 5px;
+    padding: 15px;
   }
 }
-
 
 .containerElement {
   display: grid;
@@ -59,6 +59,13 @@ body {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 1fr;
   grid-gap: 10px;
+}
+
+@media only screen and (max-width:780px) {
+  .input-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }
 
 input[type="text"],
