@@ -49,5 +49,10 @@
 
 **Snapshot Previews:** 🖼️
    - Welcome to the Task Master project! Below are snapshots of the Task Master website homepage, showcasing its sleek design and user-friendly interface. Task Master is your stylish companion for effective task management. Explore the intuitive features designed to simplify your daily tasks and enhance productivity.
+   
+**Explore These Live Links Of My crickplay Webapp:**
+   - 🌐 https://itsindrajput.github.io/crickplay
+   - 🌐 https://crickplay.netlify.app/
+     
 ![TaskMaster](https://github.com/itsindrajput/TaskMaster/assets/70815899/8263ad83-e5fb-46c5-a5d5-e856a92a1847)
 
