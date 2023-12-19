@@ -6,7 +6,6 @@
 
 body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 1.2rem;
   background-color: #f4f4f4;
   margin: 0;
   padding: 0;
@@ -31,6 +30,13 @@ body {
   box-shadow: 0 0 10px rgba(128, 128, 128, 0.1);
   border-radius: 7px;
 }
+@media only screen and (max-width:780px) {
+  .grid-container{
+    width: 85%;
+    padding: 5px;
+  }
+}
+
 
 .containerElement {
   display: grid;
@@ -42,6 +48,11 @@ body {
   padding-bottom: 0px;
   background-color: #f0f1f3;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+@media only screen and (max-width:800px) {
+  .containerElement{
+    grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+  }
 }
 
 .input-container {
@@ -181,4 +192,9 @@ input[type="date"],
 
 .paraText{
   float: right;
+}
+@media only screen and (max-width:800px) {
+  .paraText{
+    float: none;
+  }
 }
